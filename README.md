@@ -18,6 +18,7 @@ Cara untuk menyelesaikan nomor ini cukup hanya dengan melakukan konfig yang diaj
 Jawaban
 
 ![Output result](img/2a.png)
+
 ![Output result](img/2b.png)
 
 PERCOBAAN PING
@@ -108,7 +109,7 @@ PERCOBAAN PING
 
 - Ketika di testing dengan mengunjungi www.wise.ita09.com/home
 
-![Output result](img/19b.png)
+![Output result](img/9b.png)
 
 10. Setelah itu, pada subdomain[ ](http://www.super.franky.com)[**www.eden.wise.yyy.com**](http://www.super.franky.com), Loid membutuhkan penyimpanan aset yang memiliki DocumentRoot pada /var/www/eden.wise.yyy.com
 
@@ -121,8 +122,6 @@ PERCOBAAN PING
 ![Output result](img/10b.png)
 
 - Lalu kita aktifkan konfigurasi dengan “a2ensite eden.wise.ita09.com dan kita restart apache2
-
-![Output result](img/10c.png)
 
 - Kita coba buka dengan lynx
 
@@ -143,7 +142,7 @@ PERCOBAAN PING
 - Kita bisa menambahkan error message ketika suatu directory tidak ada pada suatu web server dengan menambahkan command pada /etc/apache2/sites-vaialable/
 eden.wise.ita09.com.conf sesuai dengan gambar dibawah
 
-![Output result](img/12a.png)
+![Output result](img/12apng.png)
 
 - Ketika kita coba mengunjungi www.eden.wise.ita09.com/jarkom akan muncul halaman yang telah diatur
 
