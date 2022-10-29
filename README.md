@@ -9,8 +9,7 @@
 2. Mummmad Alwan                   | Nomor 8-12
 
 ## Kendala
-1. Rayhan Kurnia Alunantara Wijaya
-2. Mummmad Alwan: Kesulitan dalam proses sinkronisasi project
+1. Kesulitan dalam proses sinkronisasi project
 
 ## SOAL
 1. WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet
