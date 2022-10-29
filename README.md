@@ -100,6 +100,9 @@ PERCOBAAN PING
 
 ![Output result](img/8e.png)
 
+- Kita coba buka dengan lynx di client
+
+![Output result](img/8f.png)
 
 9. Setelah itu, Loid juga membutuhkan agar url[ ](http://www.franky.com/index.php/home)[**www.wise.yyy.com/index.php/home**](http://www.franky.com/index.php/home) dapat menjadi menjadi[ ](http://www.franky.com/home)[**www.wise.yyy.com/home**](http://www.franky.yyy.com/home)
 
