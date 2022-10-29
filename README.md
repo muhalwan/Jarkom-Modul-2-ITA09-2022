@@ -5,7 +5,7 @@
 2. Mummmad Alwan                    5027201019
 
 ## Pengerjaan Lapres:
-1. Rayhan Kurnia Alunantara Wijaya | Nomor 1-8
+1. Rayhan Kurnia Alunantara Wijaya | Nomor 1-6, 8
 2. Mummmad Alwan                   | Nomor 8-12
 
 ## SOAL
