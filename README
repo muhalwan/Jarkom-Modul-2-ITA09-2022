@@ -1,5 +1,5 @@
-﻿Rayhan Kurnia Alunantara Wijaya 5027201030
- Mummmad Alwan  5027201019
+Rayhan Kurnia Alunantara Wijaya 5027201030
+Mummmad Alwan  5027201019
 
 1. WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet
 
@@ -7,7 +7,7 @@ Jawaban
 
 Cara untuk menyelesaikan nomor ini cukup hanya dengan melakukan konfig yang diajarkan di modul gns3. Uncomment line eth3 agar dapat mengakses internet. Lakukan hal yang sama untuk eth0 di WISE.
 
-
+https://github.com/muhalwan/Jarkom-Modul-2-ITA09-2022/blob/main/img/1a.png
 
 
 
