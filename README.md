@@ -1,14 +1,14 @@
 # Jarkom-Modul-2-ITA09-2022
 
-##Anggota Kelompok:
+## Anggota Kelompok:
 1. Rayhan Kurnia Alunantara Wijaya 5027201030
 2. Mummmad Alwan  5027201019
 
-##Pengerjaan Lapres:
+## Pengerjaan Lapres:
 1. Rayhan Kurnia Alunantara Wijaya | Nomor 1-8
 2. 2. Mummmad Alwan  5027201019 | Nomor 8-12
 
-##SOAL
+## SOAL
 1. WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet
 
 Jawaban
