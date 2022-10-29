@@ -4,9 +4,7 @@
 
 **Mummmad Alwan  5027201019**
 
-**Pembagian Pengerjaan Lapres**
-**Rayhan Kurnia Alunantara Wijaya 5027201030 Mengerjakan Nomor 1-8**		
-**Mummmad Alwan  5027201019 Mengerjakan Nomor 8-12**		
+
 
 
 1. WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet
